@@ -32,51 +32,57 @@
 
 > **Information Engineering Student building his way into Software Engineering.**
 
-`Web Development` · `Problem Solving` · `Learning in Public`
+`WEB DEVELOPMENT` &nbsp;·&nbsp; `PROBLEM SOLVING` &nbsp;·&nbsp; `LEARNING IN PUBLIC`
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### `SELECTED WORK`
+## `SELECTED WORK`
+
+<br>
 
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="left">
 
-### ✦ LUSTRE
+### `01` — LUSTRE
 
-Fashion e-commerce interface.
+**Fashion E-Commerce**
+
+A front-end project focused on turning a visual concept into a complete shopping interface.
 
 <br>
 
-`React` · `JavaScript` · `UI/UX`
+`REACT` &nbsp; `JAVASCRIPT` &nbsp; `UI/UX`
 
 <br><br>
 
 <a href="YOUR_LUSTRE_REPO_URL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="left">
 
-### ✦ KHAYAL
+### `02` — KHAYAL
 
-Modern e-commerce experience.
+**E-Commerce Experience**
+
+A modern web interface built around responsive design, product data and user experience.
 
 <br>
 
-`Front-End` · `API` · `Responsive UI`
+`FRONT-END` &nbsp; `API` &nbsp; `RESPONSIVE`
 
 <br><br>
 
 <a href="YOUR_KHAYAL_REPO_URL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -84,13 +90,25 @@ Modern e-commerce experience.
 </tr>
 </table>
 
+<br>
+
+<sub>More projects are being built.</sub>
+
 </div>
 
 <br>
 
 <div align="center">
 
-### `GITHUB ACTIVITY`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=900&color=71717A&center=true&vCenter=true&width=600&lines=%3E+not+collecting+courses.;%3E+building+things.;%3E+learning+from+mistakes.;%3E+documenting+the+journey." />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## `GITHUB ACTIVITY`
 
 <br>
 
@@ -116,9 +134,9 @@ Modern e-commerce experience.
 
 <br><br>
 
-`// still learning. still building.`
+### `// still learning. still building.`
 
-<br><br>
+<br>
 
 <a href="https://github.com/CS32d">
 <img src="https://img.shields.io/badge/CS32d-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
