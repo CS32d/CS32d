@@ -1,39 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:000000,100:0A0E0A&text=AHMAD%20LABABIDI&fontSize=42&fontColor=39FF14&fontAlignY=42&desc=%3E%20whoami%20::%20info.engineer%20%2F%2F%20frontend%20dev%20%2F%2F%20breaking%20things%20on%20purpose&descAlignY=62&descSize=13&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=AHMAD%20LABABIDI&fontSize=48&fontColor=E0F2FE&fontAlignY=36&desc=Information%20Engineering%20%E2%80%94%20Frontend%20%2F%2F%20Signal%20%2F%2F%20Security&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=every+signal+starts+as+noise;React+on+the+surface%2C+networks+underneath;still+tuning+the+frequency" alt="Typing SVG"/>
 
 </div>
 
 <br>
 
 <div align="center">
-
-```
-root@cs32d:~$ ssh into my world
-Last login: today from Aleppo, SY
-Connection established... ██████████ 100%
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=learn+%E2%86%92+build+%E2%86%92+break+%E2%86%92+patch+%E2%86%92+ship;still+debugging+my+own+career+path;React+by+day%2C+Kali+by+night" alt="Typing SVG"/>
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&customColorList=6&text=~%2F%20about&fontSize=16&fontColor=38BDF8&fontAlignY=75&fontAlign=8" width="100%"/>
 </div>
 
-<br>
+من حلب، طالب هندسة معلوماتية، وقبلها دبلوم هندسة حاسوب وشبكات — يعني قبل ما تعلّمت React كنت عم تعلّم كيف تنتقل الإشارة من نقطة لنقطة. هلق بتبني واجهات، بس بعقلية حدا بيفهم شو صاير تحت الطبقة يلي شايفها المستخدم.
 
-## `$ cat about.txt`
-
-```yaml
-name:        Ahmad Lababidi
-role:        Information Engineering Student
-focus:       Frontend Development (React) · Cybersecurity
-background:  Diploma, Computer Engineering & Networking
-based_in:    Aleppo, Syria
-status:      building in public, one commit at a time
-```
+`Frontend (React)` &nbsp;·&nbsp; `Networking Foundation` &nbsp;·&nbsp; `Cybersecurity` &nbsp;·&nbsp; `Aspiring Software Engineer`
 
 <br>
 
-## `$ ./skills.sh --scan`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&customColorList=6&text=~%2F%20stack&fontSize=16&fontColor=38BDF8&fontAlignY=75&fontAlign=8" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -43,86 +30,86 @@ status:      building in public, one commit at a time
 
 <br>
 
-## `$ ls ./projects/`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&customColorList=6&text=~%2F%20projects&fontSize=16&fontColor=38BDF8&fontAlignY=75&fontAlign=8" width="100%"/>
+</div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**`lustre/`** — Fashion E-Commerce
-مشروع فرونت-إند حوّل فكرة بصرية لواجهة تسوّق متكاملة، شغل على التفاصيل قد ما شغل على البنية.
+**Lustre** — Fashion E-Commerce
+مشروع فرونت-إند حوّل فكرة بصرية لواجهة تسوّق متكاملة، اشتغل على التفاصيل قد ما اشتغل على البنية.
 
-`REACT` `JAVASCRIPT` `UI/UX`
+`React` `JavaScript` `UI/UX`
 
-[`→ explore`](YOUR_LUSTRE_REPO_URL)
+[استكشف المشروع →](YOUR_LUSTRE_REPO_URL)
 
 </td>
 <td width="50%" valign="top">
 
-**`khayal/`** — E-Commerce Experience
+**Khayal** — E-Commerce Experience
 واجهة ويب مبنية حول تصميم متجاوب، بيانات منتجات حقيقية، وتجربة مستخدم مدروسة.
 
-`FRONT-END` `API` `RESPONSIVE`
+`Front-End` `API` `Responsive`
 
-[`→ explore`](YOUR_KHAYAL_REPO_URL)
+[استكشف المشروع →](YOUR_KHAYAL_REPO_URL)
 
 </td>
 </tr>
 </table>
 
-<div align="center"><sub>more repos compiling...</sub></div>
+<div align="center"><sub>في مشاريع تانية عم تترسم هلق</sub></div>
 
 <br>
 
-## `$ uptime --stats`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&customColorList=6&text=~%2F%20activity&fontSize=16&fontColor=38BDF8&fontAlignY=75&fontAlign=8" width="100%"/>
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CS32d&show_icons=true&hide_border=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CS32d&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=7DD3FC&text_color=CBD5E1&rank_icon=github&include_all_commits=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS32d&layout=compact&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=C9D1D9" width="40%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=CS32d&theme=dark&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="65%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS32d&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1" width="40%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CS32d&bg_color=00000000&color=39FF14&line=39FF14&point=C9D1D9&area=true&hide_border=true&custom_title=commit%20log" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=CS32d&theme=dark&hide_border=true&background=00000000&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8" width="65%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CS32d&bg_color=00000000&color=38BDF8&line=38BDF8&point=E0F2FE&area=true&hide_border=true&custom_title=contribution%20waveform" width="95%"/>
 
 </div>
 
 <br>
 
-## `$ ping linkedin.com`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&customColorList=6&text=~%2F%20connect&fontSize=16&fontColor=38BDF8&fontAlignY=75&fontAlign=8" width="100%"/>
+</div>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/%D8%A7%D8%AD%D9%85%D8%AF-%D9%84%D8%A8%D8%A7%D8%A8%D9%8A%D8%AF%D9%8A-a046b23b4/">
-<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/CS32d">
-<img src="https://img.shields.io/badge/FOLLOW-000000?style=for-the-badge&logo=github&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=CS32d&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=CS32d&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
 <div align="center">
-
-```
-[process] learning       ▓▓▓▓▓▓▓▓▓▓ running
-[process] building       ▓▓▓▓▓▓▓▓▓▓ running
-[process] overthinking   ▓▓▓▓▓▓▓▓▓▓ running
-```
 
 <sub>الشخص يلي فاهم الأساس صح هو يلي رح يشغّل الـAI — مش الـAI يلي رح يشغّلو.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:0A0E0A,100:000000&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer&animation=fadeIn" width="100%"/>
