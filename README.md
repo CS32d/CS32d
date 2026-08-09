@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-CS32d-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/%D8%A7%D8%AD%D9%85%D8%AF-%D9%84%D8%A8%D8%A7%D8%A8%D9%8A%D8%AF%D9%8A-a046b23b4/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -26,19 +26,13 @@
 
 </div>
 
----
-
-<div align="center">
-
-### `ABOUT ME`
-
-**Information Engineering Student**  
-**Web Development · Problem Solving · Building Projects**
-
 <br>
 
-I learn by building, experimenting, breaking things, fixing them,
-and sharing what I learn.
+<div align="center">
+
+> **Information Engineering Student building his way into Software Engineering.**
+
+`Web Development` · `Problem Solving` · `Learning in Public`
 
 </div>
 
@@ -46,31 +40,26 @@ and sharing what I learn.
 
 <div align="center">
 
-### `TECH STACK`
+### `SELECTED WORK`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,cpp,git,github,vscode,figma&theme=dark&perline=11"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `SELECTED PROJECTS`
-
-</div>
-
-<table align="center">
+<table>
 <tr>
 
 <td width="50%" align="center">
 
 ### ✦ LUSTRE
 
-Fashion e-commerce interface focused on visual identity,
-responsive design and front-end development.
+Fashion e-commerce interface.
+
+<br>
 
 `React` · `JavaScript` · `UI/UX`
+
+<br><br>
+
+<a href="YOUR_LUSTRE_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -78,21 +67,30 @@ responsive design and front-end development.
 
 ### ✦ KHAYAL
 
-Modern e-commerce experience focused on interface design
-and responsive development.
+Modern e-commerce experience.
+
+<br>
 
 `Front-End` · `API` · `Responsive UI`
+
+<br><br>
+
+<a href="YOUR_KHAYAL_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 </tr>
 </table>
 
----
+</div>
+
+<br>
 
 <div align="center">
 
-### `GITHUB`
+### `GITHUB ACTIVITY`
 
 <br>
 
@@ -110,7 +108,7 @@ and responsive development.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -118,9 +116,9 @@ and responsive development.
 
 <br><br>
 
-### `// still learning. still building.`
+`// still learning. still building.`
 
-<br>
+<br><br>
 
 <a href="https://github.com/CS32d">
 <img src="https://img.shields.io/badge/CS32d-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -130,4 +128,4 @@ and responsive development.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6D28D9,50:111827,100:050505&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6D28D9,50:111827,100:050505&section=footer&animation=fadeIn" width="100%"/>
